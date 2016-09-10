@@ -1,5 +1,5 @@
 # ATM
-bankjegy ill. érme címlet számító
+bankjegy ill. érme címlet számító, egyszerű if feltételvizsgálattal
 max összeg 250.000
 címletek:
 10.000
